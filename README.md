@@ -1,8 +1,8 @@
-// ============================================================
+// ===
 // KARACHI ELEVATION MAP — SRTM DEM
 // Data source: USGS SRTM Digital Elevation Model
 // Output: Elevation map and GeoTIFF export
-// ============================================================
+// ===
 
 // 1. Load Karachi study area
 var studyArea = ee.FeatureCollection(
